@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Bem Vindo!"
+comments: false
+categories: corporate
+---
+
+Estamos muito empolgados com essa iniciativa. Nosso plano é atuar junto a nossos clientes sempre buscando as melhores soluções para cada necessidade.
+
+Após anos atuando no mercado de TI, incluindo experiências internacionais, decidimos atuar de frente afim de alavancar negócios, acelerar projetos e estimular o uso de tecnologias de ponta no Brasil. Sem medo!
+
+Aguarde nossos próximos posts. Aqui você irá encontrar informações técnicas, opinião, cases e muito mais.
+
+Forte abraço da sua equipe [Panda Team](http://www.pandateam.com.br)
