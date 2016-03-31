@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.pandateam.com.br" # the base hostname & protocol for your site
 #permalink: /blog/:year/:month/:day/:title/
 twitter_username: PandateamBr
+linkedin_id: panda-team
+linkedin_name: Panda Team
 github_username: panda-team
 paginate: 8
 paginate_path: "/blog/page:num/"
